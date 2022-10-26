@@ -18,5 +18,5 @@ roslaunch robotic_depowdering pipe.launch
 ```
 This will run path planning:
 ```
-roslaunch robotic_depowdering pipe.launch
+roslaunch robotic_depowdering path_planning.launch
 ```
