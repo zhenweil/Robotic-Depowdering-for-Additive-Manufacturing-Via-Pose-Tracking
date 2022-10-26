@@ -12,11 +12,11 @@ catkin_make
 source devel/setup.bash
 ```
 #### Run project
-This will run pose tracking:
+Run this to start pose tracking:
 ```
 roslaunch robotic_depowdering pipe.launch
 ```
-This will run path planning:
+Run this to start path planning:
 ```
 roslaunch robotic_depowdering path_planning.launch
 ```
