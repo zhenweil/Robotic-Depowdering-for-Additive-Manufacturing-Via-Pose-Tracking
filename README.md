@@ -8,7 +8,7 @@ git clone git@github.com:zhenweil/Robotic-Depowdering-for-Additive-Manufacturing
 #### Compile project
 Navigate to the project root folder and run
 ```
-carkin_make
+catkin_make
 source devel/setup.bash
 ```
 #### Run project
