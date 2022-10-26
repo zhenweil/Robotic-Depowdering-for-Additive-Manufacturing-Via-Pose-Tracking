@@ -22,7 +22,7 @@ roslaunch robotic_depowdering path_planning.launch
 ```
 ## Links
 #### Links to paper
-https://ieeexplore.ieee.org/document/9847016m <br />
+https://ieeexplore.ieee.org/document/9847016 <br />
 or <br />
 https://arxiv.org/abs/2207.04196
 
