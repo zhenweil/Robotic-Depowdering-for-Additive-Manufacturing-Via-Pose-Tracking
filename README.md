@@ -20,7 +20,11 @@ This will run path planning:
 ```
 roslaunch robotic_depowdering path_planning.launch
 ```
-## Link to Publication
+## Links
+#### Links to paper
 https://ieeexplore.ieee.org/document/9847016m <br />
 or <br />
 https://arxiv.org/abs/2207.04196
+
+#### Link to demo:
+https://www.youtube.com/watch?v=AUIkyULAhqM 
