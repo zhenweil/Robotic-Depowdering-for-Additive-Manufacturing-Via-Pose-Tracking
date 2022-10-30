@@ -15,10 +15,6 @@ catkin_make
 source devel/setup.bash
 ```
 #### Run project
-Run bag file:
-```
-rosbag play ${path-to-bag-file}
-```
 Run this to start pose tracking:
 ```
 roslaunch robotic_depowdering pipe.launch
@@ -26,6 +22,10 @@ roslaunch robotic_depowdering pipe.launch
 Run this to start path planning:
 ```
 roslaunch robotic_depowdering path_planning.launch
+```
+Run bag file:
+```
+rosbag play ${path-to-bag-file}
 ```
 ## Links
 #### Links to paper
