@@ -6,10 +6,8 @@
 git clone git@github.com:zhenweil/Robotic-Depowdering-for-Additive-Manufacturing-Via-Pose-Tracking.git
 ```
 #### Download bag files
-Link to the bag file:
-```
+Link to the bag file: <br />
 https://drive.google.com/file/d/1dc79u48Q7_P1xRy25ID9Uiu5ra2vjj2U/view?usp=sharing
-```
 #### Compile project
 Navigate to the project root folder and run
 ```
